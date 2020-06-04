@@ -22,7 +22,7 @@ The smaller exercises are about implementing the following alogorithms (nothe th
 
 **5. Matrix iterative methods**
 
-**6. Solving ODE with improved eulers method **
+**6. Solving ODE with improved eulers method**
 
 **7. Lamberts W-function using bisection**
 
