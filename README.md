@@ -6,6 +6,8 @@ This repository contains my code for the subject TMA4320 - Introduksjon til vite
 2. Solving the schrödinger equation numerically. 
 3. Simulation of diffusion processes in cells.
 
+Please note that these projects are quite large in size, so you might have to reload them a couple of times. Alternatively I'd just download them and run the projects locally if you already have jupyter notebook installed. 
+
 The smaller exercises are about implementing the following alogorithms (nothe that these notebooks are written in norwegian):
 
 1. Bisection method
