@@ -15,10 +15,17 @@ The smaller exercises are about implementing the following alogorithms (nothe th
 **1. Bisection method**
 
 **2. Interpolation**
+
 **3. Numerical integration**
+
 **4. LU factorization including pivoting**
+
 **5. Matrix iterative methods**
+
 **6. Solving ODE with improved eulers method **
+
 **7. Lamberts W-function using bisection**
+
 **8. Runge Kutta 4-method**
+
 **9. Simple newtons method**
